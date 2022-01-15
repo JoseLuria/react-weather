@@ -3,9 +3,7 @@ A simple Weather app created with React Js
 
 ## Screenshots
 
-Para facilitar la creación de documentación y el análisis de esta através de un markdown parser se ha creado esta libreria de *templates* de README. 
-
-De esta forma nos aseguramos la estandarización y la calidad de la documentación generada en nuestros retos.
+![Screenshot](./public/weather-screenshot.png)
 
 ## Usage
 
